@@ -6,8 +6,8 @@
 #include "wifi.h"
 //-------------------------------------------------------------------------------
 //                              WiFi
-const char *ssid = "Netwerk-TVS";   // name of your WiFi network
-const char *password = "876354DF34"; // password of the WiFi network
+const char *ssid = "";   // name of your WiFi network
+const char *password = ""; // password of the WiFi network
 WiFiClient wifiClient;
 //-------------------------------------------------------------------------------
 //                         MQTT ID & TOPIC
