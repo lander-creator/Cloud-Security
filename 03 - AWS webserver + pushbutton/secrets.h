@@ -7,8 +7,8 @@
 #define AWS_IOT_PUBLISH_TOPIC2   "r0781861/button"
 #define AWS_IOT_SUBSCRIBE_TOPIC "r0781861/led"
 
-const char WIFI_SSID[] = "LAPTOP-OTLNMOI8 2568";
-const char WIFI_PASSWORD[] = "PiWiFi1234";
+const char WIFI_SSID[] = "*******";
+const char WIFI_PASSWORD[] = "*******";
 const char AWS_IOT_ENDPOINT[] = "a2g39bqtdhth9l-ats.iot.us-west-2.amazonaws.com";
 
 // Amazon Root CA 1
